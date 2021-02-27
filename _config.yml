@@ -7,7 +7,6 @@ permalink:        pretty
 
 # Setup
 title:            Maya Juman
-description:      'Ecology and Evolutionary Biology'
 tagline:          'EEB'
 url:              http://mayajuman.github.io
 baseurl:          /
@@ -17,6 +16,9 @@ author:
   url:            https://twitter.com/mayajuman
 
 paginate:         5
+
+# Custom vars
+version:          2.1.0
 
 github:
   repo:           https://github.com/mayajuman/mayajuman.github.io
