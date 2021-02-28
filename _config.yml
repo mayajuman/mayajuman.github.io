@@ -13,8 +13,7 @@ url:              http://mayajuman.github.io
 baseurl:          http://mayajuman.github.io
 
 author:
-  name:           'Maya Juman'
-    social:       
+   name:          'Maya Juman'
       twitter:    https://twitter.com/mayajuman
       email:      maya.juman@aya.yale.edu
       github:     https://github.com/mayajuman
