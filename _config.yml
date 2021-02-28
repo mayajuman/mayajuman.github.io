@@ -10,7 +10,7 @@ title:            Maya Juman
 tagline:          'EEB'
 description:      ''
 url:              http://mayajuman.github.io
-baseurl:          /
+baseurl:          http://mayajuman.github.io
 
 author:
   name:           'Maya Juman'
