@@ -14,9 +14,9 @@ baseurl:          http://mayajuman.github.io
 
 author:
    name:          'Maya Juman'
-      twitter:    https://twitter.com/mayajuman
-      email:      maya.juman@aya.yale.edu
-      github:     https://github.com/mayajuman
+   twitter:    https://twitter.com/mayajuman
+   email:      maya.juman@aya.yale.edu
+   github:     https://github.com/mayajuman
 
 paginate:         5
 
