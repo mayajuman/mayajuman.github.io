@@ -18,7 +18,7 @@ author:
    email:      maya.juman@aya.yale.edu
    github:     https://github.com/mayajuman
 
-paginate:         5
+paginate:         15
 
 # Custom vars
 version:          2.1.0
