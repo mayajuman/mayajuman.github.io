@@ -1,1 +1,4 @@
-RESEARCH
+---
+layout: page
+title: Research
+---
