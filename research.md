@@ -13,8 +13,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, 
 
 ### Presentations
 
-Juman, M., Woodman, N., Olson, L.E., Sargis, E.J. “Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Mammalia, Scandentia) from Southeast Asia.” Presented at the Saybrook College Senior Mellon Forum, New Haven, CT, 3/2/2020.
+**Juman, M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Mammalia, Scandentia) from Southeast Asia.” Presented at the Saybrook College Senior Mellon Forum, New Haven, CT, 3/2/2020.
 
-Juman, M., Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019.
+**Juman, M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019.
 
 <img src="/public/profile_picture.jpg" alt="mmj" class="inline" style="width:3.8em; height:3.8em;" />
