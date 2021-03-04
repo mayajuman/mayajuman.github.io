@@ -11,14 +11,14 @@ When I’m not doing science, you can find me struggling through a New York Time
 
 ### Education
 
-**Yale University**, B.S. in Ecology & Evolutionary Biology, May 2020
+Yale University, B.S. in Ecology & Evolutionary Biology, May 2020
 
 ### Experience
 
 - **Case Investigation Coordinator**, Division of COVID-19 Containment, Philadelphia Department of Public Health, June 2020 - Present
 - **Teaching Assistant**, Data Analysis and Exploration (S&DS 230), Yale Summer Session 2020
 - **ESL-Certified Writing Partner**, Yale College Writing Center, September 2017 - July 2020
-- **Collections Assistant and Tour Guide**, Divisions of Invertebrate and Vertebrate Paleontology, Yale Peabody Museum of Natural History, Collections Assistant and Tour Guide, September 2016 - May 2020
+- **Collections Assistant and Tour Guide**, Invertebrate and Vertebrate Paleontology, Yale Peabody Museum of Natural History, Collections Assistant and Tour Guide, September 2016 - May 2020
 
 ### Contact
 
