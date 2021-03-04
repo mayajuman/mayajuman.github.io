@@ -24,6 +24,4 @@ B.S. in Ecology & Evolutionary Biology,  Yale University,  May 2020
 
 You can <a href="https://twitter.com/mayajuman" target="_blank">find me on Twitter</a>, or shoot me an email at maya.juman@aya.yale.edu!
 
-<br>
-
 *Website created with Hyde, a theme for Jekyll by Mark Otto*
