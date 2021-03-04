@@ -2,3 +2,20 @@
 layout: page
 title: Research
 ---
+
+At Yale, I investigated Southeast Asian treeshrew biodiversity and taxonomy with <a href="https://meml.yale.edu/" target="_blank">Eric Sargis</a>. We analyzed multivariate morphometric data from museum specimens to revise the species boundaries and geographic ranges of these poorly-studied mammals. My senior thesis grew out of a <a href="https://news.yale.edu/2018/09/14/yale-smithsonian-internships-offer-exciting-research-opportunities" target="_blank">Yale-Smithsonian internship</a> I completed in 2018, supplemented by additional data collection in 2019 from specimens at YPM, AMNH, MCZ, FMNH, USNM, and NHMUK.
+
+Previously, I worked with Sara Ruane, then at the AMNH Herpetology Department, on cryptic speciation in Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work together culminated in the description of a new species of lamprophiid, *Mimophis occultus*, based on an integrative analysis of molecular and morphological data.
+
+### Publications
+
+Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. 2018. Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae). Systematics and Biodiversity, 16:3, 229-244.
+
+### Presentations
+
+Juman, M., Woodman, N., Olson, L.E., Sargis, E.J. “Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Mammalia, Scandentia) from Southeast Asia.” Presented at the Saybrook College Senior Mellon Forum, New Haven, CT, 3/2/2020.
+
+Juman, M., Woodman, N., Olson, L.E., Sargis, E.J. “Hand proportions and taxonomic boundaries among Large Treeshrews (Scandentia, Tupaiidae).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019.
+
+
+<img src="/public/profile_picture.jpg" alt="mmj" class="inline" style="width:3.8em; height:3.8em;" />
