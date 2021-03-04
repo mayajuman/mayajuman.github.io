@@ -3,4 +3,27 @@ layout: page
 title: About Me
 ---
 
-hi! UNDER CONSTRUCTION
+I am an aspiring evolutionary biologist, interested in island biogeography, species delimitation, conservation, and natural history collections. <a href="research">My research</a> thus far has spanned herpetology and mammalogy, phylogenetics and morphometrics, Madagascar and Southeast Asia… but has always relied heavily on museum collections.
+
+I currently work for the Philadelphia Department of Public Health, coordinating COVID-19 contact tracing and assisting with software development and data management. I plan to apply for admission to PhD programs in the 2021-2022 cycle.
+
+When I’m not doing science, you can find me struggling through a New York Times crossword, playing the guitar, or daydreaming about future travel.
+
+###Education
+
+**Yale University**
+B.S. in Ecology & Evolutionary Biology, May 2020
+
+###Experience
+
+- **Case Investigation Coordinator**, Division of COVID-19 Containment, Philadelphia Department of Public Health, June 2020 - Present
+- **Teaching Assistant**, Data Analysis and Exploration (S&DS 230), Yale Summer Session 2020
+- **ESL-Certified Writing Partner**, Yale College Writing Center, September 2017 - July 2020
+- **Collections Assistant and Tour Guide**, Divisions of Invertebrate and Vertebrate Paleontology, Yale Peabody Museum of Natural History, Collections Assistant and Tour Guide, September 2016 - May 2020
+
+###Contact
+
+You can find me on Twitter, or shoot me an email at maya.juman@aya.yale.edu!
+
+
+*Website created with Hyde, a theme for Jekyll by Mark Otto*
