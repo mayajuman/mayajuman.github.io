@@ -31,10 +31,10 @@ I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blan
 
 I created a portfolio of original DSLR images of the Yale Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on capturing the frequent juxtapositions of the organic and the artificial found in natural history museums. Check out a few of my favorite images below!
 
-<img src="/public/aisle.JPG" alt="art_pres">
-<img src="/public/ammonite.JPG" alt="art_pres">
-<img src="/public/preplab.JPG" alt="art_pres">
-<img src="/public/headless.JPG" alt="art_pres">
-<img src="/public/esc.JPG" alt="art_pres">
-<img src="/public/concretion.JPG" alt="art_pres">
+<img src="/public/aisle.jpg" alt="aisle">
+<img src="/public/ammonite.jpg" alt="ammonite">
+<img src="/public/preplab.jpg" alt="VP prep lab">
+<img src="/public/headless.jpg" alt="headless">
+<img src="/public/esc.jpg" alt="ESC">
+<img src="/public/concretion.jpg" alt="concretion">
 <img src="/public/crit.JPG" alt="art_pres">
