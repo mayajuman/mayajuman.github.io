@@ -3,7 +3,7 @@ layout: page
 title: Science Communication
 ---
 
-Making science accessible to everyone is critically important. It’s also a ton of fun! Over the past few years I’ve explored science communication using different media (blogs, photography, video, audio, etc.). Check out some of my projects here!
+Over the past few years I’ve had a lot of fun exploring ways to make science more accessible through various media (blogs, photography, video, audio, etc.). Check out some of my projects here!
 
 ### Inkredible: A Cephalopodcast
 
