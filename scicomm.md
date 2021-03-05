@@ -15,7 +15,7 @@ I wrote, hosted, and produced a podcast episode all about cephalopod ink as a fi
 
 ### Taming of the Tree Shrew
 
-I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blank">this blog</a> during my Peabody/Yale-Smithsonian internship in 2018. It is a mixture of research updates, musings on taxonomy, recipes, and descriptions of life as a Smithsonian intern.
+I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blank">this blog</a> during my Yale-Smithsonian summer internship in 2018. It is a mixture of research updates, musings on taxonomy, recipes, and descriptions of life as a Smithsonian intern.
 
 <br />
 
@@ -27,6 +27,10 @@ I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blan
 
 <br />
 
+### Memento Mori: Peabody Portraits
+
+I created a portfolio of original DSLR images of the Yale Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on capturing the frequent juxtapositions of the organic and the artificial found in natural history museums.
 
 
+<img src="/public/crit.JPG" alt="art_pres">
 
