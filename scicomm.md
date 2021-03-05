@@ -11,4 +11,10 @@ I wrote, hosted, and produced a podcast episode all about cephalopod ink as a fi
 
 <img src="/public/ceph1.JPG" alt="talk1"><img src="/public/ceph2.JPG" alt="talk2">
 
-<center><img src="/public/profile_picture.jpg" alt="mmj" class="inline" style="width:3.8em; height:3.8em;" /></center>
+### Yale Peabody Museum Tour Guide
+
+<img src=”/public/tour.jpg” alt="tour" ALIGN=”right” style="width:100px"/>
+
+I led behind-the-scenes tours of the Peabody’s Invertebrate Paleontology collections for four years! One of my tours was featured in New Haven’s very own Daily Nutmeg. During the COVID-19 pandemic, I filmed a remote “tour” from home, which was shared with intro biology students at Yale (BIO 104: Ecology and Evolutionary Biology) as a supplemental class resource. Outside of tours, I worked in both Invertebrate and Vertebrate Paleontology as a collections assistant during my time at Yale (see my student spotlight here!).
+
+
