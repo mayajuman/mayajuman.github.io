@@ -18,7 +18,5 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, 
 **Juman, M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019.
 
 <div id="images">
-    <a href="/">
         <img src="/public/mmj_asm.jpg" width="100px">
         <div class="caption">Presenting at ASM 2019!</div>
-    </a>
