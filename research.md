@@ -9,7 +9,7 @@ Previously, I worked with Sara Ruane, then at the AMNH Herpetology Department, o
 
 ### Publications
 
-Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. 2018. Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae). Systematics and Biodiversity, 16:3, 229-244.
+Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. 2018. <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16:3, 229-244.
 
 ### Presentations
 
