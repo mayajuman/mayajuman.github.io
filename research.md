@@ -9,7 +9,11 @@ Previously, I worked with Sara Ruane, then at the AMNH Herpetology Department, o
 
 ### Publications
 
-Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. 2018. <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16:3, 229-244.
+**Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. accepted. Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii* Gray, 1848). Journal of Mammalian Evolution.
+
+**Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. in press. Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia. Journal of Mammalogy.
+
+Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. 2018. <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16:3, 229-244.
 
 ### Presentations
 
