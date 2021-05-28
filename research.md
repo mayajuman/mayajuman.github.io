@@ -5,7 +5,7 @@ title: Research
 
 At Yale, I investigated Southeast Asian treeshrew biodiversity and taxonomy with <a href="https://meml.yale.edu/" target="_blank">Eric Sargis</a>. We analyzed multivariate morphometric data from museum specimens to revise the species boundaries and geographic ranges of these poorly-studied mammals. My senior thesis grew out of a <a href="https://news.yale.edu/2018/09/14/yale-smithsonian-internships-offer-exciting-research-opportunities" target="_blank">Yale-Smithsonian internship</a> I completed in 2018, supplemented by additional data collection in 2019 from specimens at YPM, AMNH, MCZ, FMNH, USNM, and NHMUK.
 
-Previously, I worked with Sara Ruane, then at the AMNH Herpetology Department, on cryptic speciation in Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work together culminated in the description of a new species of lamprophiid, *Mimophis occultus*, based on an integrative analysis of molecular and morphological data.
+Previously, I worked with Sara Ruane, then at the AMNH Herpetology Department, on cryptic speciation in Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work together culminated in the description of a new species, *Mimophis occultus*, based on an integrative analysis of molecular and morphological data.
 
 ### Publications
 
