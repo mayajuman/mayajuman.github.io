@@ -27,9 +27,9 @@ I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blan
 
 <br />
 
-### Memento Mori: Peabody Portraits
+### Peabody Portraits
 
-I created a portfolio of original DSLR images of the Yale Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on capturing the frequent juxtapositions of the organic and the artificial found in natural history museums. Check out a few of my favorite images below!
+I created a portfolio of original DSLR images of the Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on juxtapositions of the organic and the artificial in natural history museums. Check out a few of my favorite images below!
 
 <img src="/public/aisle.jpg" alt="aisle">
 <img src="/public/ammonite.jpg" alt="ammonite">
