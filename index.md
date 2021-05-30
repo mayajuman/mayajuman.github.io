@@ -7,7 +7,7 @@ I am an aspiring evolutionary biologist, interested in island biogeography, spec
 
 I currently work for the Philadelphia Department of Public Health, coordinating COVID-19 contact tracing and assisting with app development and data management. Later this year (COVID-dependent) I'm headed to Malaysia on a Fulbright grant to study deforestation and sustainable agriculture at Sunway University. I plan to apply to PhD programs in the 2021-2022 cycle.
 
-When I’m not doing science, you can find me biking along the Schuylkill River, cooking/consuming Thai food, or struggling through a New York Times crossword.
+When I’m not doing science, you can find me biking along the Schuylkill River, playing the guitar, or struggling through a New York Times crossword.
 
 ### Education
 
