@@ -3,7 +3,7 @@ layout: page
 title: Science Communication
 ---
 
-Over the past few years I’ve had a lot of fun exploring ways to make science more accessible through various media (blogs, photography, video, audio, etc.). Check out some of my projects here!
+Over the past few years I’ve had a lot of fun exploring ways to make science more accessible through various media. Check out some of my projects below!
 
 ### Inkredible: A Cephalopodcast
 
