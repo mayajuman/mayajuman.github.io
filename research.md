@@ -17,8 +17,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Presented at the Meeting of the American Society of Mammalogists, 6/15/2021.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Presented at the Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Mammalia, Scandentia) from Southeast Asia.” Presented at the Saybrook College Senior Mellon Forum, New Haven, CT, 3/2/2020.
 
-**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019.
+**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019. Received the ASM Undergraduate Student Honorarium.
