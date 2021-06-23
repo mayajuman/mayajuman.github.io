@@ -9,7 +9,7 @@ Previously I worked with Dr. Sara Ruane, then at the AMNH Department of Herpetol
 
 ### Publications
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (in press) Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii* Gray, 1848). Journal of Mammalian Evolution.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (in press) Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848). Journal of Mammalian Evolution.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy.
 
