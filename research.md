@@ -7,6 +7,8 @@ At Yale, I investigated Southeast Asian treeshrew taxonomy with <a href="https:/
 
 Previously I worked with Dr. Sara Ruane, then at the AMNH Department of Herpetology, on cryptic speciation in Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work together culminated in the description of a new species, *Mimophis occultus*, based on an integrative analysis of molecular and morphological data.
 
+Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my papers!
+
 ### Publications
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (in press) Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848). Journal of Mammalian Evolution.
