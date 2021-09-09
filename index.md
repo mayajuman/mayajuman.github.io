@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am an aspiring evolutionary biologist, interested in island biogeography, species delimitation, conservation, and natural history collections. <a href="research">My research</a> thus far has spanned herpetology and mammalogy; phylogenetics and morphometrics; and Madagascar and Southeast Asia, always relying heavily on museum collections.
+I am an aspiring evolutionary biologist, interested in biogeography, disease ecology, conservation, and natural history collections. <a href="research">My research</a> thus far has spanned herpetology and mammalogy; phylogenetics and morphometrics; and Madagascar and Southeast Asia, always relying heavily on museum collections.
 
 I currently work for the Philadelphia Department of Public Health, coordinating COVID-19 contact tracing and assisting with app development and data management. In January (COVID-dependent) I'm headed to Malaysia on a Fulbright grant to study deforestation and sustainable agriculture at Sunway University. I plan to apply to PhD programs in the 2021-2022 cycle.
 
