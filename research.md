@@ -11,7 +11,7 @@ Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my pape
 
 ### Peer-Reviewed Publications
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (in press) Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848). Journal of Mammalian Evolution.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://link.springer.com/article/10.1007/s10914-021-09556-7" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
 
