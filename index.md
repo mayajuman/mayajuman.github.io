@@ -9,6 +9,8 @@ In the fall of 2022, I'll be starting my PhD in Biology at the University of Cam
 
 When I’m not doing science, you can find me biking along the Schuylkill River, struggling through a New York Times crossword, or daydreaming about future travel.
 
+You can find a PDF of my CV <a href="mayajuman.github.io/CV/Maya Juman CV 03.17.22.pdf" target="_blank">here</a>.
+
 ### Education
 
 B.S. in Ecology & Evolutionary Biology,  Yale University,  May 2020
