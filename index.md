@@ -5,7 +5,7 @@ title: About Me
 
 I am an aspiring evolutionary biologist, interested in disease ecology, biogeography, conservation, and natural history collections. <a href="research">My research</a> thus far has spanned herpetology and mammalogy; phylogenetics and morphometrics; and Madagascar and Southeast Asia, always relying heavily on museum collections. I graduated from Yale University with a B.S. in Ecology and Evolutionary Biology in 2020.
 
-In the fall of 2022, I'll be starting my PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>. My PhD research will focus on anthropogenic and ecological drivers of zoonotic emergence from bat populations.
+In the fall of 2022, I'll be starting my PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>.
 
 Thanks for stopping by!
 
