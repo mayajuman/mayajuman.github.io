@@ -27,6 +27,12 @@ I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blan
 
 <br />
 
+### Letters to a Pre-Scientist
+
+Since 2021, I've served as a Pen Pal as part of the <a href="https://prescientist.org/" target="_blank">remote "Letters to a Pre-Scientist"</a> (LPS) program. LPS matches middle school students in low-income communities with STEM professionals for a yearlong exchange of letters discussing what a science career (and a scientist!) can look like. It's been incredibly rewarding and I highly recommend participating as a pen pal if you are a STEM professional interested in science communication.
+
+<br />
+
 ### Peabody Portraits
 
 I created a portfolio of original DSLR images of the Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on juxtapositions of the organic and the artificial in natural history museums. Here are a few of my favorite images:
