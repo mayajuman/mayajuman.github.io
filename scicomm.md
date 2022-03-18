@@ -29,7 +29,7 @@ I maintained <a href="https://tamingofthetreeshrew.wordpress.com/" target="_blan
 
 ### Letters to a Pre-Scientist
 
-Since 2021, I've served as a Pen Pal as part of the <a href="https://prescientist.org/" target="_blank">"Letters to a Pre-Scientist"</a> (LPS) program. LPS matches middle school students in low-income communities with STEM professionals for a yearlong exchange of letters discussing what a science career (and a scientist!) can look like. It's been incredibly rewarding and I highly recommend participating as a pen pal if you are a STEM professional interested in science communication.
+Since 2021, I've served as a Pen Pal as part of the <a href="https://prescientist.org/" target="_blank">Letters to a Pre-Scientist</a> (LPS) program. LPS matches middle school students in low-income communities with STEM professionals for a yearlong exchange of letters discussing what a science career (and a scientist!) can look like. It's been incredibly rewarding and I highly recommend participating as a pen pal if you are a STEM professional interested in science communication.
 
 <br />
 
