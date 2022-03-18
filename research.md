@@ -23,4 +23,4 @@ I grew up in India and am passionate about South Asian wildlife conservation. I 
 
 <img src="/public/mimophis.jpg" alt="mimophis" align="left" style="margin: 10px 10px 0px 0px; width:230px">
 
-<p align=left>Previously I worked with <a href="https://sararuane.com/" target="_blank">Dr. Sara Ruane</a>, then at the AMNH Department of Herpetology, on the morphology and ecology of Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work culminated in the description of a new cryptic species, *Mimophis occultus*, based on an integrative analysis of molecular and morphological data.</p>
+<p align=left>Previously I worked with <a href="https://sararuane.com/" target="_blank">Dr. Sara Ruane</a>, then at the AMNH Department of Herpetology, on the morphology and ecology of Malagasy snakes (see our project featured <a href="https://www.youtube.com/watch?v=Rk3JBFs1arQ" target="_blank">here</a>!). Our work culminated in the description of a new cryptic species, <i>Mimophis occultus</i>, based on an integrative analysis of molecular and morphological data.</p>
