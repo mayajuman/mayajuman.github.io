@@ -1,11 +1,11 @@
 ---
 layout: page
-title:
+title: Publications
 ---
 
 Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my papers!
 
-### Peer-Reviewed Publications
+### Peer-Reviewed Journal Articles
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
