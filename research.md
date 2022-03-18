@@ -11,7 +11,7 @@ My PhD research at the University of Cambridge (advised by <a href="https://www.
 
 ### Biogeography, Taxonomy, and Conservation of South and Southeast Asian Mammals
 
-<img src="/public/treeshrewxray.JPG" alt="xray">
+<img src="/public/treeshrewxray.jpg" alt="xray">
 
 My undergraduate thesis and ongoing related projects grew out of a <a href="https://news.yale.edu/2018/09/14/yale-smithsonian-internships-offer-exciting-research-opportunities" target="_blank">Yale-Smithsonian internship</a> I completed in 2018, focusing on ecogeographic variation in treeshrews (Scandentia). In collaboration with <a href="https://meml.yale.edu/" target="_blank">Dr. Eric Sargis</a> at Yale and <a href="http://linkolson.org/" target="_blank">Dr. Link Olson</a> at UAF, I analyze multivariate morphometric data from museum specimens to clarify taxonomic boundaries in these poorly studied mammals and revise conservation priorities accordingly. We also use these data to investigate the effects of latitude and island biogeography on body size and shape in treeshrews.
 
