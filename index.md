@@ -17,6 +17,6 @@ A PDF of my CV can be accessed <a href="https://mayajuman.github.io/CV/MayaJuman
 
 You can <a href="https://twitter.com/mayajuman" target="_blank">find me on Twitter</a>, or shoot me an email at <a href="mailto:maya.juman@aya.yale.edu">maya.juman@aya.yale.edu</a>!
 
-My last name rhymes with "human."
+(My last name rhymes with "human.")
 
 *Website created with Hyde, a theme for Jekyll by Mark Otto*
