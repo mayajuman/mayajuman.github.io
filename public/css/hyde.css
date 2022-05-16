@@ -54,9 +54,6 @@ html {
  */
 
 .sidebar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
