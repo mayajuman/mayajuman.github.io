@@ -54,6 +54,9 @@ html {
  */
 
 .sidebar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
@@ -62,8 +65,9 @@ html {
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
-    top: 50%;
-    left: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
     width: 18rem;
     text-align: center;
   }
