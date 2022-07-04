@@ -33,6 +33,10 @@ Since 2021, I've served as a Pen Pal as part of the <a href="https://prescientis
 
 <br />
 
+### ATHENA Podcast
+
+<a href="https://www.abwis.org/home" target="_blank">ATHENA by Women in STEM</a> is an organization working to make science research accessible to underrepresented and low-income female and genderqueer students, founded by two high schoolers. Check out my interview about diversity in STEM and the college experience <a href="https://www.abwis.org/podcast" target="_blank">on their podcast</a>.
+
 ### Peabody Portraits
 
 I created a portfolio of original DSLR images of the Peabody Museum paleontology collections, which I presented as a final project for a digital photography class at the Yale School of Art in December 2019. This series focused on juxtapositions of the organic and the artificial in natural history museums. Here are a few of my favorite images:
