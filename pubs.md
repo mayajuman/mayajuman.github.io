@@ -7,6 +7,8 @@ Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my pape
 
 ### Peer-Reviewed Journal Articles
 
+**Juman, M.N.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (accepted) Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876). Journal of Mammalogy.
+
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
@@ -15,7 +17,7 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." To be presented at the Meeting of the American Society of Mammalogists, 6/17/2022. Received the ASM Travel Award.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Presented at the Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Presented at the Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
 
