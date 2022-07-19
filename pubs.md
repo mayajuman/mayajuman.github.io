@@ -7,7 +7,7 @@ Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my pape
 
 ### Peer-Reviewed Journal Articles
 
-**Juman, M.N.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (accepted) Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876). Journal of Mammalogy.
+**Juman, M.N.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (*accepted*) Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876). Journal of Mammalogy.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
