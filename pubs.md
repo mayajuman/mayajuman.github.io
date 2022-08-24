@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> for PDFs of my papers! Associated data and code can be found on <a href="https://github.com/mayajuman/">GitHub</a>.
+Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> or visit <a href="https://www.researchgate.net/profile/Maya-Juman-2">my ResearchGate profile</a> for PDFs of my papers! Associated data and code can be found on <a href="https://github.com/mayajuman/">GitHub</a>.
 
 ### Peer-Reviewed Journal Articles
 
