@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am an aspiring evolutionary biologist, broadly interested in mammal biodiversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. <a href="research">My research</a> thus far has spanned herpetology and mammalogy; phylogenetics and morphometrics; and Madagascar and Southeast Asia, always relying heavily on natural history museum collections. I graduated from Yale University with a B.S. in Ecology and Evolutionary Biology in 2020.
+I am an aspiring evolutionary biologist, broadly interested in mammal biodiversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I graduated from Yale University with a B.S. in Ecology and Evolutionary Biology in 2020.
 
 In the fall of 2022, I'll be starting my PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>.
 
