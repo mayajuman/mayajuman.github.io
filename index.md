@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am an aspiring evolutionary biologist, broadly interested in mammal biodiversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I graduated from Yale University in 2020 with a B.S. in Ecology and Evolutionary Biology. In 2022, I began my PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>.
+I am an aspiring evolutionary biologist, broadly interested in mammal biodiversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I hold a B.S. in Ecology and Evolutionary Biology from Yale University, and am now working toward a PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>.
 
 Thanks for stopping by!
 
