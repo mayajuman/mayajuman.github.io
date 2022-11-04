@@ -7,6 +7,8 @@ Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> or visit <a href="h
 
 ### Peer-Reviewed Journal Articles
 
+**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. (*accepted*) Recent and rapid ecogeographical rule reversals in Northern Treeshrews. Scientific Reports.
+
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (*in press*) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
