@@ -11,7 +11,7 @@ Please <a href="mailto:maya.juman@aya.yale.edu">email me</a> or visit <a href="h
 
 **Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. (2022) <a href="https://www.nature.com/articles/s41598-022-23774-w" target="_blank">Recent and rapid ecogeographical rule reversals in Northern Treeshrews</a>. Scientific Reports, 12: 19689.
 
-<p style="margin-left: 40px">Press:  <a href="https://www.cam.ac.uk/research/news/new-study-suggests-climate-change-may-be-affecting-animal-body-size?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news" target="_blank">Cambridge</a></p>, <a href=https://news.yale.edu/2022/11/29/ecological-rule-breaker-shows-effects-climate-change-body-size" target="_blank">Yale</a></p>
+<p style="margin-left: 40px">Press:  <a href="https://www.cam.ac.uk/research/news/new-study-suggests-climate-change-may-be-affecting-animal-body-size?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news" target="_blank">Cambridge</a>, <a href=https://news.yale.edu/2022/11/29/ecological-rule-breaker-shows-effects-climate-change-body-size" target="_blank">Yale</a></p>
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
