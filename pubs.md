@@ -7,7 +7,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (*in press*) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
 
 **Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. (2022) <a href="https://www.nature.com/articles/s41598-022-23774-w" target="_blank">Recent and rapid ecogeographical rule reversals in Northern Treeshrews</a>. Scientific Reports, 12: 19689.
 
