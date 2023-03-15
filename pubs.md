@@ -19,6 +19,16 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16(3): 229-244.
 
+### Technical Reports
+
+Juman, M.M., Sargis, E.J. (*accepted*) *Tupaia belangeri*. The IUCN Red List of Threatened Species 2023.
+
+Juman, M.M., Sargis, E.J. (*accepted*) *Tupaia minor*. The IUCN Red List of Threatened Species 2023.
+
+Juman, M.M., Sargis, E.J. (*accepted*) *Ptilocercus lowii*. The IUCN Red List of Threatened Species 2023.
+
+Juman, M.M., Sargis, E.J. (*accepted*) *Tupaia tana*. The IUCN Red List of Threatened Species 2023.
+
 ### Presentations
 
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Presented at the Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
