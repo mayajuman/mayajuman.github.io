@@ -5,7 +5,7 @@ title: Research
 
 ### Anthropogenic and Ecological Drivers of Zoonotic Spillover from Bats
 
-My PhD research at the University of Cambridge (advised by <a href="https://www.vet.cam.ac.uk/directory/or226%40cam.ac.uk" target="_blank">Dr. Olivier Restif</a>) will focus on modeling viral spillover from fruit bat populations in Ghana and Australia. This work will inform both bat conservation efforts and local public health measures. More coming soon!
+My PhD research at the University of Cambridge (advised by <a href="https://www.vet.cam.ac.uk/directory/or226%40cam.ac.uk" target="_blank">Dr. Olivier Restif</a>) focuses on modeling viral dynamics in Ghanaian and Australian fruit bat populations. I am currently analyzing paramyxovirus and filovirus serology in *Eidolon helvum*, and its relationship to the ecology and demography of this enigmatic, highly mobile species. This research will hopefully inform both bat conservation efforts and local public health measures.
 
 <br />
 
