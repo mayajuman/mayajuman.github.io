@@ -31,6 +31,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
+**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." Presented at the International Mammalogical Congress, 7/14/2023. Received the ASM Travel Award.
+
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Presented at the Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Presented at the Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
