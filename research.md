@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-### Fruit bat paramyxovirus ecology
+### Fruit bat ecology and paramyxoviruses
 
 My PhD research at the University of Cambridge (advised by <a href="https://www.vet.cam.ac.uk/directory/or226%40cam.ac.uk" target="_blank">Dr. Olivier Restif</a>) aims to elucidate the connections between bat ecology and viral emergence, focusing on fruit bats (family Pteropodidae) and paramyxoviruses (which include the lethal zoonotic Hendra and Nipah viruses). For my first chapter, I am currently analysing paramyxovirus (and to a lesser extent, filovirus) serology in *Eidolon helvum*, and its relationship to the ecology and life history of this enigmatic, highly mobile species. This research will hopefully inform both bat conservation efforts and local public health measures.
 
