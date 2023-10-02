@@ -7,6 +7,8 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (*submitted*) Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India. Journal of Mammalian Evolution.
+
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
 
 **Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. (2022) <a href="https://www.nature.com/articles/s41598-022-23774-w" target="_blank">Recent and rapid ecogeographical rule reversals in Northern Treeshrews</a>. Scientific Reports, 12: 19689.
@@ -30,6 +32,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 **Juman, M.M.**, Sargis, E.J. (*accepted*) *Tupaia tana*. The IUCN Red List of Threatened Species 2023.
 
 ### Presentations
+
+**Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." To be presented at the British Ecological Society Annual Meeting, Belfast, UK, 12/14/2023.
 
 **Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." Presented at the International Mammalogical Congress, 7/14/2023. Received the ASM Travel Award.
 
