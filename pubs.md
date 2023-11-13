@@ -7,6 +7,8 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
+Olson, L.E.*, and **Juman, M.M.*** (*submitted*) Host taxonomy is critical in zoonotic disease surveillance and reporting. Journal of Wildlife Diseases. (*both authors contributed equally to this work)
+
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (*in review*) Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India. Journal of Mammalian Evolution.
 
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
