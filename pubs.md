@@ -27,13 +27,13 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Technical Reports
 
-**Juman, M.M.**, Sargis, E.J. (*accepted*) *Tupaia belangeri*. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41492/229775933" target="_blank">*Tupaia belangeri*</a>. The IUCN Red List of Threatened Species 2023.
 
-**Juman, M.M.**, Sargis, E.J. (*accepted*) *Tupaia minor*. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41497/229537130" target="_blank">*Tupaia minor*</a>. The IUCN Red List of Threatened Species 2023.
 
-**Juman, M.M.**, Sargis, E.J. (*accepted*) *Ptilocercus lowii*. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41491/229799507" target="_blank">*Ptilocercus lowii*</a>. The IUCN Red List of Threatened Species 2023.
 
-**Juman, M.M.**, Sargis, E.J. (*accepted*) *Tupaia tana*. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023)  <a href="https://www.iucnredlist.org/species/41501/229492631" target="_blank">*Tupaia tana*</a>. The IUCN Red List of Threatened Species 2023.
 
 ### Presentations
 
