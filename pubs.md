@@ -27,24 +27,22 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Technical Reports
 
-**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41492/229775933" target="_blank">*Tupaia belangeri*</a>. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41492/229775933" target="_blank">*Tupaia belangeri*</a>. The IUCN Red List of Threatened Species.
 
-**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41497/229537130" target="_blank">*Tupaia minor*</a>. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41497/229537130" target="_blank">*Tupaia minor*</a>. The IUCN Red List of Threatened Species.
 
-**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41491/229799507" target="_blank">*Ptilocercus lowii*</a>. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41491/229799507" target="_blank">*Ptilocercus lowii*</a>. The IUCN Red List of Threatened Species.
 
-**Juman, M.M.**, Sargis, E.J. (2023)  <a href="https://www.iucnredlist.org/species/41501/229492631" target="_blank">*Tupaia tana*</a>. The IUCN Red List of Threatened Species 2023.
+**Juman, M.M.**, Sargis, E.J. (2023)  <a href="https://www.iucnredlist.org/species/41501/229492631" target="_blank">*Tupaia tana*</a>. The IUCN Red List of Threatened Species.
 
 ### Presentations
 
-**Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." To be presented at the British Ecological Society Annual Meeting, Belfast, UK, 12/14/2023.
+**Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." British Ecological Society Annual Meeting, Belfast, Northern Ireland, 12/15/2023.
 
-**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." Presented at the International Mammalogical Congress, 7/14/2023. Received the ASM Travel Award.
+**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." International Mammalogical Congress, Anchorage, AK, 7/14/2023. Received the ASM Travel Award.
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Presented at the Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Presented at the Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
 
-**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Mammalia, Scandentia) from Southeast Asia.” Presented at the Saybrook College Senior Mellon Forum, New Haven, CT, 3/2/2020.
-
-**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Presented at the Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019. Received the ASM Undergraduate Student Honorarium.
+**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019. Received the ASM Undergraduate Student Honorarium.
