@@ -7,7 +7,9 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-Olson, L.E.\*, and **Juman, M.M.**\* (*in press*) Host taxonomy is critical in zoonotic disease surveillance and reporting. Journal of Wildlife Diseases.
+**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (*submitted*) Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*). Journal of Animal Ecology.
+
+Olson, L.E., and **Juman, M.M.** (*in press*) Host taxonomy is critical in zoonotic disease surveillance and reporting. Journal of Wildlife Diseases.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31:4.
 
@@ -22,8 +24,6 @@ Olson, L.E.\*, and **Juman, M.M.**\* (*in press*) Host taxonomy is critical in z
 **Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
 
 Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16(3): 229-244.
-
-*both authors contributed equally to this work
 
 ### Technical Reports
 
