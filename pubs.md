@@ -27,6 +27,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Technical Reports
 
+**Juman, M.M.**, Sargis, E.J. (*submitted*). *Anathana ellioti*. The IUCN Red List of Threatened Species.
+
 **Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41492/229775933" target="_blank">*Tupaia belangeri*</a>. The IUCN Red List of Threatened Species.
 
 **Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41497/229537130" target="_blank">*Tupaia minor*</a>. The IUCN Red List of Threatened Species.
