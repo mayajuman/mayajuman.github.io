@@ -7,7 +7,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (*submitted*) Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*). Journal of Animal Ecology.
+**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (*submitted*) Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*). Ecology and Evolution.
 
 Olson, L.E., and **Juman, M.M.** (*in press*) Host taxonomy is critical in zoonotic disease surveillance and reporting. Journal of Wildlife Diseases.
 
