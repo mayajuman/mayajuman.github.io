@@ -5,11 +5,11 @@ title: Research
 
 ### Fruit bat ecology and paramyxoviruses
 
-<img src="/public/museum_bats.jpeg" alt="bats">
-
 My PhD research at the University of Cambridge (advised by <a href="https://www.vet.cam.ac.uk/directory/or226%40cam.ac.uk" target="_blank">Dr. Olivier Restif</a>) aims to elucidate the connections between bat ecology and viral emergence, focusing on fruit bats (family Pteropodidae) and paramyxoviruses (including the zoonotic Hendra and Nipah viruses, which cause high fatality rates in humans). For my first chapter, I am analyzing paramyxovirus and filovirus serology in *Eidolon helvum*, and its relationship to the ecology and life history of this enigmatic, highly mobile species. This research will hopefully inform both bat conservation efforts and local public health measures.
 
-My second chapter uses trait-based machine learning models to predict paramyxovirus hosts within Pteropodidae. I will then test these "novel" host predictions by screening historical museum specimens for viral RNA. Natural history museums remain an untapped resource for pathogen discovery and surveillance, and I'm excited to be working on this interdisciplinary project with support from <a href="https://www.viralemergence.org/" target="_blank">Verena</a>, <a href="https://acceleratescience.github.io/" target-"_blank">Accelerate Science</a>, and the Cambridge Centre for Data-Driven Discovery.
+<img src="/public/museum_bats.jpeg" alt="xray" align="left" style="margin: 10px 10px 0px 0px; width:230px">
+
+<p align=left>My second chapter uses trait-based machine learning models to predict paramyxovirus hosts within Pteropodidae. I will then test these "novel" host predictions by screening historical museum specimens for viral RNA. Natural history museums remain an untapped resource for pathogen discovery and surveillance, and I'm excited to be working on this interdisciplinary project with support from <a href="https://www.viralemergence.org/" target="_blank">Verena</a>, <a href="https://acceleratescience.github.io/" target-"_blank">Accelerate Science</a>, and the Cambridge Centre for Data-Driven Discovery.</p>
 
 <br />
 
