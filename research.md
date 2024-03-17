@@ -9,7 +9,7 @@ My PhD research at the University of Cambridge (advised by <a href="https://www.
 
 <img src="/public/museum_bats.jpeg" alt="xray" align="left" style="margin: 10px 10px 0px 0px; width:230px">
 
-<p align=left>My second chapter uses trait-based machine learning models to predict paramyxovirus hosts within Pteropodidae. I will then test these "novel" host predictions by screening historical museum specimens for viral RNA. Natural history museums remain an untapped resource for pathogen discovery and surveillance, and I'm excited to be working on this interdisciplinary project with support from <a href="https://www.viralemergence.org/" target="_blank">Verena</a>, <a href="https://acceleratescience.github.io/" target="_blank">Accelerate Science</a>, and the Cambridge Centre for Data-Driven Discovery.</p>
+<p align=left>My second chapter uses ecological trait-based machine learning models to predict paramyxovirus hosts within Pteropodidae. I will then test these "novel" host predictions by screening historical museum specimens for viral RNA. Natural history collections remain largely untapped resources for pathogen discovery and surveillance, and I'm excited to be working on this interdisciplinary project with support from <a href="https://www.viralemergence.org/" target="_blank">Verena</a>, <a href="https://acceleratescience.github.io/" target="_blank">Accelerate Science</a>, and the Cambridge Centre for Data-Driven Discovery.</p>
 
 <br />
 
