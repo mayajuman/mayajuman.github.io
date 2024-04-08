@@ -9,7 +9,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 **Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (*submitted*) Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*). Ecology and Evolution.
 
-Olson, L.E., and **Juman, M.M.** (*in press*) <a href="https://meridian.allenpress.com/jwd/article/doi/10.7589/JWD-D-23-00178a/499514/Host-Taxonomy-Is-Critical-in-Zoonotic-Disease" target="_blank">Host taxonomy is critical in zoonotic disease surveillance and reporting</a>. Journal of Wildlife Diseases.
+Olson, L.E., and **Juman, M.M.** (*in press*) <a href="http://dx.doi.org/10.7589/JWD-D-23-00178a" target="_blank">Host taxonomy is critical in zoonotic disease surveillance and reporting</a>. Journal of Wildlife Diseases.
 
 **Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31:4.
 
