@@ -27,7 +27,7 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Technical Reports
 
-**Juman, M.M.**, Sargis, E.J. (*submitted*). *Anathana ellioti*. The IUCN Red List of Threatened Species.
+**Juman, M.M.**, Sargis, E.J., Talmale, S.S. (*accepted*). *Anathana ellioti*. The IUCN Red List of Threatened Species.
 
 **Juman, M.M.**, Sargis, E.J. (2023) <a href="https://www.iucnredlist.org/species/41492/229775933" target="_blank">*Tupaia belangeri*</a>. The IUCN Red List of Threatened Species.
 
@@ -38,6 +38,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 **Juman, M.M.**, Sargis, E.J. (2023)  <a href="https://www.iucnredlist.org/species/41501/229492631" target="_blank">*Tupaia tana*</a>. The IUCN Red List of Threatened Species.
 
 ### Presentations
+
+**Juman, M.M.** "Museums, Microbes, and the Machine: AI-driven pathogen surveillance in natural history collections." To be presented at “Zoonotic Collecting”: The Fourth Annual Conference of The Global War Against the Rat and the Epistemic Emergence of Zoonosis, St Andrews, Scotland, 6/25/2024.
 
 **Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." British Ecological Society Annual Meeting, Belfast, Northern Ireland, 12/15/2023.
 
