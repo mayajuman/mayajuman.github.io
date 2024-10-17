@@ -39,6 +39,8 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
+**Juman, M.M.**, Han, B.A., and Becker, D.J. "Model-guided henipavirus discovery in museum bat collections." To be presented at Hendra@30: Henipavirus International Conference, Geelong, Australia, 12/8/2024.
+
 **Juman, M.M.** "Museums, Microbes, and the Machine: AI-driven pathogen surveillance in natural history collections." Zoonotic Collecting: The Fourth Annual Conference of The Global War Against the Rat and the Epistemic Emergence of Zoonosis, St Andrews, Scotland, 6/25/2024.
 
 **Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." British Ecological Society Annual Meeting, Belfast, Northern Ireland, 12/15/2023.
