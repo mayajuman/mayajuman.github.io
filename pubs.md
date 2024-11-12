@@ -7,11 +7,11 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (*in press*) Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*). Ecology and Evolution.
+**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
 
 Olson, L.E., and **Juman, M.M.** (2024) <a href="http://dx.doi.org/10.7589/JWD-D-23-00178a" target="_blank">Host taxonomy is critical in zoonotic disease surveillance and reporting</a>. Journal of Wildlife Diseases, 60(2): 554-555.
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31:4.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31: 4.
 
 **Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
 
