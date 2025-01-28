@@ -13,7 +13,7 @@ A PDF of my CV can be accessed <a href="https://mayajuman.github.io/CV/MayaJuman
 
 ### Contact
 
-You can <a href="https://twitter.com/mayajuman" target="_blank">find me on Twitter</a>, or shoot me an email at <a href="mailto:mmj38@cam.ac.uk">mmj38@cam.ac.uk</a>!
+You can <a href="https://twitter.com/mayajuman" target="_blank">find me on Twitter</a> or shoot me an email at <a href="mailto:mmj38@cam.ac.uk">mmj38@cam.ac.uk</a>!
 
 (My last name rhymes with "human.")
 
