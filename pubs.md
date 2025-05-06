@@ -9,7 +9,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*submitted*) Why don’t bats get sick from viruses? Frontiers in Young Minds.
 
-**Juman, M.M.**, Restif, O., and Becker, D.J. (*submitted*) <a href="https://doi.org/10.1101/2025.03.10.642350" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): an open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Pathogens.
+**Juman, M.M.**, Restif, O., and Becker, D.J. (*in review*) <a href="https://doi.org/10.1101/2025.03.10.642350" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): an open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Pathogens.
 
 **Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
 
