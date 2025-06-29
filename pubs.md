@@ -5,7 +5,9 @@ title: Publications
 
 Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://www.researchgate.net/profile/Maya-Juman-2" target="_blank">my ResearchGate profile</a> for PDFs of my papers! Associated data and code can be found on <a href="https://github.com/mayajuman/" target="_blank">GitHub</a>.
 
-### Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles (\*denotes equal contribution)
+
+Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*submitted to PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
 Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*submitted*) Why don’t bats get sick from viruses? Frontiers in Young Minds.
 
