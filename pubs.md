@@ -7,7 +7,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-11. Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*submitted to PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
+\11. Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*submitted to PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
 10. Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*submitted*) Why don’t bats get sick from viruses? Frontiers in Young Minds.
 
