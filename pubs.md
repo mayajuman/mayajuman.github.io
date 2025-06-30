@@ -47,16 +47,20 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." BatID 2025: International Symposium on the Infectious Diseases of Bats, Chicago (upcoming).
+
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." Meeting of the American Society of Mammalogists, West Lafayette, Indiana, 6/30/2025. Received the ASM Travel Award.
+
 **Juman, M.M.**, Han, B.A., and Becker, D.J. "Model-guided henipavirus discovery in museum bat collections." Hendra@30: Henipavirus International Conference, Geelong, Australia, 12/9/2024.
 
 **Juman, M.M.** "Museums, Microbes, and the Machine: AI-driven pathogen surveillance in natural history collections." Zoonotic Collecting: The Fourth Annual Conference of The Global War Against the Rat and the Epistemic Emergence of Zoonosis, St Andrews, Scotland, 6/25/2024.
 
 **Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." British Ecological Society Annual Meeting, Belfast, Northern Ireland, 12/15/2023.
 
-**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." International Mammalogical Congress, Anchorage, AK, 7/14/2023. Received the ASM Travel Award.
+**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." International Mammalogical Congress, virtual, 7/14/2023. Received the ASM Travel Award.
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Meeting of the American Society of Mammalogists, 6/18/2022. Received the ASM Travel Award.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Meeting of the American Society of Mammalogists, virtual, 6/18/2022. Received the ASM Travel Award.
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Meeting of the American Society of Mammalogists, 6/15/2021. Received the ASM Travel Award.
+**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Meeting of the American Society of Mammalogists, virtual, 6/15/2021. Received the ASM Travel Award.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Meeting of the American Society of Mammalogists, Washington, D.C., 6/29/2019. Received the ASM Undergraduate Student Honorarium.
