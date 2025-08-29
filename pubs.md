@@ -47,7 +47,7 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
-**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." BatID 2025: International Symposium on the Infectious Diseases of Bats, Chicago (upcoming).
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." BatID 2025: International Symposium on the Infectious Diseases of Bats, Chicago, 7/11/2025.
 
 **Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." Meeting of the American Society of Mammalogists, West Lafayette, Indiana, 6/30/2025. Received the ASM Travel Award.
 
