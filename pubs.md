@@ -7,11 +7,13 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in review*) Host-virus association databases as tools for understanding viral spillover at varying scales. PLOS Neglected Tropical Diseases.
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in review at Nature Microbiology*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
 
-Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in review*) Why don’t bats get sick from viruses? Frontiers in Young Minds.
+Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in review at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
-**Juman, M.M.**, Restif, O., and Becker, D.J. (*in revision*) <a href="https://doi.org/10.1101/2025.03.10.642350" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): an open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Neglected Tropical Diseases.
+Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in revision at Frontiers in Young Minds*) Why don’t bats get sick from viruses?
+
+**Juman, M.M.**, Restif, O., and Becker, D.J. (*in revision at PLOS Neglected Tropical Diseases*) <a href="https://doi.org/10.1101/2025.03.10.642350" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): an open database and synthesis of sampling effort, viral positivity, and coevolution</a>.
 
 **Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
 
