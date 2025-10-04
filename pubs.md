@@ -7,7 +7,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 ### Peer-Reviewed Journal Articles
 
-**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in review at Nature Microbiology*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in review at Nature Communications*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
 
 Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in review at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
