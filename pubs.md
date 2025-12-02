@@ -6,6 +6,7 @@ title: Publications
 Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://www.researchgate.net/profile/Maya-Juman-2" target="_blank">my ResearchGate profile</a> for PDFs of my papers! Associated data and code can be found on <a href="https://github.com/mayajuman/" target="_blank">GitHub</a>.
 
 ### Peer-Reviewed Journal Articles
+\*denotes equal contribution
 
 Cronin, C.E.\*, **Juman, M.M.**\*, Richardson, A.J., Whittier, C.A., Becker, D.J., Ferguson, A.W. (*in review at PLOS Pathogenss*) <a href="https://doi.org/10.1101/2025.11.28.691153" target="_blank">Biodiversity databases as underutilized resources for pathogen discovery: a quantitative synthesis of bat and rodent tissue collections in natural history museums</a>.
 
@@ -34,8 +35,6 @@ Olson, L.E., and **Juman, M.M.** (2024) <a href="http://dx.doi.org/10.7589/JWD-D
 **Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
 
 Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16(3): 229-244.
-
-\*denotes equal contribution
 
 ### Technical Reports
 
