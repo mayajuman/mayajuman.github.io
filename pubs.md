@@ -12,7 +12,7 @@ Cronin, C.E.\*, **Juman, M.M.**\*, Richardson, A.J., Whittier, C.A., Becker, D.J
 
 **Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in revision at Nature Communications*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
 
-Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in review at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
+Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in revision at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
 Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in revision at Frontiers in Young Minds*) Why don’t bats get sick from viruses?
 
