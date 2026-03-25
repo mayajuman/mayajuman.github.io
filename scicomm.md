@@ -7,7 +7,7 @@ Over the past few years I’ve had a lot of fun exploring ways to make science m
 
 ### Bat Virus Hunting at the Cambridge Festival
 
-In 2023 and 2024, I co-designed and ran an outreach activity at the Cambridge Vet School for the monthlong Cambridge Festival. Our activity was open to scientists of all ages, involving a search for zoonotic viral sequences in bat "poop" under stuffed bat roosts. These DNA/RNA sequences could then be aligned with known viral genomes to identify the viruses. Lots of excitement about and appreciation for bats! (and also stickers and candy...)
+From 2023-2026, I've co-designed and run an outreach activity at the Cambridge Vet School for the annual Cambridge Science Festival. Our activity was open to scientists of all ages, involving a search for zoonotic viral sequences in bat "poop" under stuffed bat roosts. These DNA/RNA sequences could then be aligned with known viral genomes to identify the viruses. Lots of excitement about and appreciation for bats! (and also stickers and candy...)
 
 <img src="/public/cam_fest.jpeg" alt="cam_fest">
 
