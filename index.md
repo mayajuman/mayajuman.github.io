@@ -9,7 +9,7 @@ Thanks for stopping by!
 
 ### CV
 
-A PDF of my CV can be accessed <a href="https://mayajuman.github.io/CV/MayaJumanCVMarch25.pdf" target="_blank">here</a>.
+A PDF of my CV can be accessed <a href="https://mayajuman.github.io/CV/MayaJumanCVMarch26.pdf" target="_blank">here</a>.
 
 ### Contact
 
