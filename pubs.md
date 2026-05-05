@@ -8,13 +8,15 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 ### Peer-Reviewed Journal Articles
 \*denotes equal contribution
 
-**Juman, M.M.**\*, Doty, J.B.\*, Morgan, C.N., Matheny, A., Caudle, A., Breslin, M., Hamilton, N.M., Gunderson, A., Newell, K., Rogers, J., Balta, V.A., Zecca, I.B., Whitehill, F., Minhaj, F.S., McDonough, M.M., Ferguson, AW., Li, Y., Gigante, C., Nakazawa, Y., McLaughlin, J., Olson, L.E. (*in review at Nature Microbiology*) <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">Historic and contemporary museum specimens implicate Northern Red-backed Vole (Clethrionomys rutilus) as borealpox host as early as 1990s</a>.
+Cunningham, A.A., Trugman, T., Gibson, L., Superfine, J., **Juman, M.M.**, Broder, C.C., Yan, L., Yovel, Y., Wood, J.L.N., Weinberg, M. (*in review at Emerging Infectious Diseases*) Paramyxovirus and filovirus serology in a population of Israeli Egyptian fruit bats.
+
+**Juman, M.M.**\*, Doty, J.B.\*, Morgan, C.N., Matheny, A., Caudle, A., Breslin, M., Hamilton, N.M., Gunderson, A., Newell, K., Rogers, J., Balta, V.A., Zecca, I.B., Whitehill, F., Minhaj, F.S., McDonough, M.M., Ferguson, AW., Li, Y., Gigante, C., Nakazawa, Y., McLaughlin, J., Olson, L.E. (*in review at Nature Communications*) <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">Historic and contemporary museum specimens implicate Northern Red-backed Vole (Clethrionomys rutilus) as borealpox host as early as 1990s</a>.
 
 Cronin, C.E.\*, **Juman, M.M.**\*, Richardson, A.J., Whittier, C.A., Becker, D.J., Ferguson, A.W. (*in revision at PLOS Neglected Tropical Diseases*) <a href="https://doi.org/10.1101/2025.11.28.691153" target="_blank">Biodiversity databases as underutilized resources for pathogen discovery: a quantitative synthesis of bat and rodent tissue collections in natural history museums</a>.
 
 **Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in revision at Nature Communications*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
 
-Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in revision at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
+Lindsley, I.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (*in press at PLOS Neglected Tropical Diseases*) Host-virus association databases as tools for understanding viral spillover at varying scales.
 
 Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in press at Frontiers for Young Minds*) Why don’t bats get sick from viruses?
 
