@@ -20,7 +20,7 @@ Lindsley, I.C.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott
 
 Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in press at Frontiers for Young Minds*) Why don’t bats get sick from viruses?
 
-**Juman, M.M.**, Restif, O., and Becker, D.J. (2025) <a href="https://doi.org/10.1371/journal.pntd.0013698" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Neglected Tropical Diseases, 19: e0013698.
+**Juman, M.M.**, Restif, O., Becker, D.J. (2025) <a href="https://doi.org/10.1371/journal.pntd.0013698" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Neglected Tropical Diseases, 19: e0013698.
 
 **Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
 
