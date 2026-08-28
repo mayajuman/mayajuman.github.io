@@ -8,35 +8,39 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 ### Peer-Reviewed Journal Articles
 \*denotes equal contribution
 
+**Juman, M.M.**\* Riesle-Sbarbaro, S.A.\*, Amponsah-Mensah, K.\*, Gibson, L., Mannerings, A., Ntiamoa-Baidu, Y., Fooks, A.R., Ziekah, M., Jephcott, F.L., Languon, S., Drummond, L., Yan, L., Broder, C.C., Laing, E.D., Drosten, C., Suu-Ire, R.D., Quaye, O., Wood, J.L.N., Cunningham, A.A., Restif, O. (*in revision at Nature Communications*) <a href="https://doi.org/10.64898/2026.06.30.26356960" target="_blank">Serological evidence of exposure to filoviruses in bats and humans in Ghana</a>.
+
+Kettenburg, G., Simonis, M.C., Ferretti, P., Sánchez, C.A., Gaucherand, L., Williams, K.M., Islam, S., Lutz, H.L., Frank, L.E., Huntington, C.A., **Juman, M.M.**, Mols, V.C., Quintela-Tizon, R.M., Voirin, C.J., Ansil, B.R., Vicente-Santos, A.C., Víquez-R, L., Lelli, D., Phelps, K.L., Weinberg, M., Woodson, S.E., Barker, B.R., Dávalos, L.M., Kingston, T., Schmidt, A.G., Streicker, D.G., Uelmen, J., Banerjee, A., Frank, H.K., Seifert, S.N., Becker, D.J., Brook, C.E. (*in revision at Nature Communications*) Prioritizing the next decade of research in bat infectious disease (batID).
+
 Cunningham, A.A., Trugman, T., Gibson, L., Superfine, J., **Juman, M.M.**, Broder, C.C., Yan, L., Yovel, Y., Wood, J.L.N., Weinberg, M. (*in review at Emerging Infectious Diseases*) Paramyxovirus and filovirus serology in a population of Israeli Egyptian fruit bats.
 
-**Juman, M.M.**\*, Doty, J.B.\*, Morgan, C.N., Matheny, A., Caudle, A., Breslin, M., Hamilton, N.M., Gunderson, A., Newell, K., Rogers, J., Balta, V.A., Zecca, I.B., Whitehill, F., Minhaj, F.S., McDonough, M.M., Ferguson, AW., Li, Y., Gigante, C., Nakazawa, Y., McLaughlin, J., Olson, L.E. (*in review at Nature Communications*) <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">Historic and contemporary museum specimens implicate Northern Red-backed Vole (Clethrionomys rutilus) as borealpox host as early as 1990s</a>.
+**Juman, M.M.**\*, Doty, J.B.\*, Morgan, C.N., Matheny, A., Caudle, A., Breslin, M., Hamilton, N.M., Gunderson, A., Newell, K., Rogers, J., Balta, V.A., Zecca, I.B., Whitehill, F., Minhaj, F.S., McDonough, M.M., Ferguson, AW., Li, Y., Gigante, C., Nakazawa, Y., McLaughlin, J., Olson, L.E. (*in revision at Nature Communications*) <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">Historic and contemporary museum specimens implicate Northern Red-backed Vole (Clethrionomys rutilus) as borealpox host as early as 1990s</a>.
 
 Cronin, C.E.\*, **Juman, M.M.**\*, Richardson, A.J., Whittier, C.A., Becker, D.J., Ferguson, A.W. (*in revision at PLOS Neglected Tropical Diseases*) <a href="https://doi.org/10.1101/2025.11.28.691153" target="_blank">Biodiversity databases as underutilized resources for pathogen discovery: a quantitative synthesis of bat and rodent tissue collections in natural history museums</a>.
 
-**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in revision at Nature Communications*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Andemwana, F.B., Cisirika, B.M., Kahindo, C., Ceríaco, L.M.P., Goodman, S.M., Patterson, B.D., Albery, G.F., Carlson, C.J., Becker, D.J. (*in press at Nature Communications*) <a href="https://doi.org/10.1101/2025.09.11.675601" target="_blank">Museum collections and machine learning guide discovery of novel coronaviruses and paramyxoviruses</a>.
 
 Lindsley, I.C.\*, **Juman, M.M.**\*, Seifert, S., Gibb, R., Albery, G., Jephcott, F., Restif, O. (2026) <a href="https://doi.org/10.1371/journal.pntd.0013343" target="_blank">Host-virus association databases as tools for understanding viral spillover at varying scales</a>. PLOS Neglected Tropical Diseases, 20: e0013343.
 
-Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (*in press at Frontiers for Young Minds*) Why don’t bats get sick from viruses?
+Betke, B.A., **Juman, M.M.**, O’Shea, M., Fagre, A., Frank, H., Becker, D.J., Poisot, T. (2026) <a href="https://kids.frontiersin.org/articles/10.3389/frym.2026.1591982/full" target="_blank">Do bats get sick from the viruses they carry?</a> Frontiers for Young Minds, 14: 1591982.
 
 **Juman, M.M.**, Restif, O., Becker, D.J. (2025) <a href="https://doi.org/10.1371/journal.pntd.0013698" target="_blank">Paramyxoviruses in Old World fruit bats (Pteropodidae): An open database and synthesis of sampling effort, viral positivity, and coevolution</a>. PLOS Neglected Tropical Diseases, 19: e0013698.
 
-**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., and Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
+**Juman, M.M.**, Gibson, L., Suu-Ire, R.D., Languon, S., Quaye, O., Fleischer, G., Asumah, S., Jolma, E.R., Gautam, A., Sterling, S.L., Yan, L., Broder, C.C., Laing, E., Wood, J.L.N., Cunningham, A.A., Restif, O. (2024) <a href="https://doi.org/10.1002/ece3.70555" target="_blank">Ecological and reproductive cycles drive henipavirus seroprevalence in the African straw-coloured fruit bat (*Eidolon helvum*)</a>. Ecology and Evolution, 14: e70555.
 
-Olson, L.E., and **Juman, M.M.** (2024) <a href="http://dx.doi.org/10.7589/JWD-D-23-00178a" target="_blank">Host taxonomy is critical in zoonotic disease surveillance and reporting</a>. Journal of Wildlife Diseases, 60(2): 554-555.
+Olson, L.E., **Juman, M.M.** (2024) <a href="http://dx.doi.org/10.7589/JWD-D-23-00178a" target="_blank">Host taxonomy is critical in zoonotic disease surveillance and reporting</a>. Journal of Wildlife Diseases, 60(2): 554-555.
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31: 4.
+**Juman, M.M.**, Olson, L.E., Sargis, E.J. (2024) <a href="https://link.springer.com/article/10.1007/s10914-023-09694-0" target="_blank">Craniometric variation and taxonomic boundaries in the Madras Treeshrew (Scandentia, Tupaiidae: *Anathana ellioti* [Waterhouse, 1850]) from India</a>. Journal of Mammalian Evolution, 31: 4.
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., Sargis, E.J. (2022) <a href="https://doi.org/10.1093/jmammal/gyac080" target="_blank">Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)</a>. Journal of Mammalogy, 103(6): 1431-1440.
 
-**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. (2022) <a href="https://www.nature.com/articles/s41598-022-23774-w" target="_blank">Recent and rapid ecogeographical rule reversals in Northern Treeshrews</a>. Scientific Reports, 12: 19689.
+**Juman, M.M.**, Millien, V., Olson, L.E., Sargis, E.J. (2022) <a href="https://www.nature.com/articles/s41598-022-23774-w" target="_blank">Recent and rapid ecogeographical rule reversals in Northern Treeshrews</a>. Scientific Reports, 12: 19689.
 
 <p style="margin-left: 40px">Press:  <a href="https://www.cam.ac.uk/research/news/new-study-suggests-climate-change-may-be-affecting-animal-body-size?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news" target="_blank">Cambridge</a>, <a href="https://news.yale.edu/2022/11/29/ecological-rule-breaker-shows-effects-climate-change-body-size" target="_blank">Yale</a>, <a href="https://www.mcgill.ca/newsroom/channels/news/ecological-rule-breaker-shows-effects-climate-change-body-size-evolution-343871" target="_blank">McGill</a>, <a href="https://www.vettimes.co.uk/news/climate-change-affecting-animal-body-size-says-study/" target="_blank">Vet Times</a>, <a href="https://yaledailynews.com/blog/2022/12/07/study-on-northern-treeshrews-reveals-climate-changes-effects-on-ecogeographical-evolution/" target="_blank">Yale Daily News</a></p>
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
+**Juman, M.M.**, Olson, L.E., Sargis, E.J. (2021) <a href="https://rdcu.be/cC9Yf" target="_blank">Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia: Ptilocercidae; *Ptilocercus lowii* Gray, 1848)</a>. Journal of Mammalian Evolution, 28(4): 1193-1203.
 
-**Juman, M.M.**, Woodman, N., Olson, L.E., and Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
+**Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. (2021) <a href="https://academic.oup.com/jmammal/advance-article/doi/10.1093/jmammal/gyab059/6301373?guestAccessKey=2123cf18-6c41-4330-9c3e-f241aa92d38e" target="_blank">Ecogeographic variation and taxonomic boundaries in Large Treeshrews (Scandentia, Tupaiidae: *Tupaia tana* Raffles, 1821) from Southeast Asia</a>. Journal of Mammalogy, 102(4): 1054-1066.
 
 Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman, I., Nussbaum, R.A., Schneider, G., Burbrink, F.T., Raxworthy, C.J. (2018) <a href="https://www.tandfonline.com/doi/abs/10.1080/14772000.2017.1375046" target="_blank">Unrecognized species diversity and new insights into colour pattern polymorphism within the widespread Malagasy snake *Mimophis* (Serpentes: Lamprophiidae)</a>. Systematics and Biodiversity, 16(3): 229-244.
 
@@ -54,22 +58,22 @@ Ruane, S., Myers, E.A., Lo, K., Yuen, S., Welt, R.S., **Juman, M.M.**, Futterman
 
 ### Presentations
 
-**Juman, M.M.** Integrating machine learning, museum collections, and serology to disentangle bat–virus relationships. Plenary talk to be presented at the American Society of Mammalogists, Norfolk, Virginia, 2026.
+**Juman, M.M.** Integrating machine learning, museum collections, and serology to disentangle bat–virus relationships. Meeting of the American Society of Mammalogists, Norfolk, Virginia, 2026. ASM Fellowship Award Plenary Talk.
 
 **Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." BatID: International Symposium on the Infectious Diseases of Bats, Chicago, 2025.
 
-**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., and Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." Meeting of the American Society of Mammalogists, West Lafayette, Indiana, 2025. Received the ASM Travel Award.
+**Juman, M.M.**, McDonough, M.M., Ferguson, A.W., Han, B.A., Becker, D.J. "Model-guided paramyxovirus discovery in museum bat collections." Meeting of the American Society of Mammalogists, West Lafayette, Indiana, 2025. Received the ASM Travel Award.
 
-**Juman, M.M.**, Han, B.A., and Becker, D.J. "Model-guided henipavirus discovery in museum bat collections." Hendra@30: Henipavirus International Conference, Geelong, Australia, 2024.
+**Juman, M.M.**, Han, B.A., Becker, D.J. "Model-guided henipavirus discovery in museum bat collections." Hendra@30: Henipavirus International Conference, Geelong, Australia, 2024.
 
 **Juman, M.M.** "Museums, Microbes, and the Machine: AI-driven pathogen surveillance in natural history collections." Zoonotic Collecting: The Fourth Annual Conference of The Global War Against the Rat and the Epistemic Emergence of Zoonosis, St Andrews, Scotland, 2024.
 
 **Juman, M.M.**, Restif, O. "Seasonal and spatial patterns of henipavirus seroprevalence in Straw-colored Fruit Bats (*Eidolon helvum*)." British Ecological Society Annual Meeting, Belfast, Northern Ireland, 2023.
 
-**Juman, M.M.**, Millien, V., Olson, L.E., and Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." International Mammalogical Congress, virtual, 2023. Received the ASM Travel Award.
+**Juman, M.M.**, Millien, V., Olson, L.E., Sargis, E.J. "Recent and rapid ecogeographical rule reversals in Northern Treeshrews." International Mammalogical Congress, virtual, 2023. Received the ASM Travel Award.
 
-**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., and Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Meeting of the American Society of Mammalogists, virtual, 2022. Received the ASM Travel Award.
+**Juman, M.M.**, Woodman, N., Miller-Murthy, A., Olson, L.E., Sargis, E.J. "Taxonomic boundaries in Lesser Treeshrews (Scandentia, Tupaiidae: *Tupaia minor* Günther, 1876)." Meeting of the American Society of Mammalogists, virtual, 2022. Received the ASM Travel Award.
 
-**Juman, M.M.**, Olson, L.E., and Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Meeting of the American Society of Mammalogists, virtual, 2021. Received the ASM Travel Award.
+**Juman, M.M.**, Olson, L.E., Sargis, E.J. "Skeletal variation and taxonomic boundaries in the Pen-tailed Treeshrew (Scandentia, Ptilocercidae: *Ptilocercus lowii*)." Meeting of the American Society of Mammalogists, virtual, 2021. Received the ASM Travel Award.
 
 **Juman, M.M.**, Woodman, N., Olson, L.E., Sargis, E.J. “Skeletal variation among island populations of Large Treeshrews (Scandentia: Tupaiidae: *Tupaia tana*).” Meeting of the American Society of Mammalogists, Washington, D.C., 2019. Received the ASM Undergraduate Student Honorarium.
