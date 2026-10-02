@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am an aspiring evolutionary biologist, broadly interested in mammal diversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I hold a B.S. in Ecology and Evolutionary Biology from Yale University, and I am now working toward a PhD in Biological Sciences at the University of Cambridge as a <a href="https://www.gatescambridge.org/biography/18513/" target="_blank">Gates Cambridge Scholar</a>.
+I am an evolutionary biologist, broadly interested in mammal diversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I hold a B.S. in Ecology and Evolutionary Biology from Yale University and a PhD in Biological Sciences from the University of Cambridge. I am now the Drapers' Research Fellow at Pembroke College, Cambridge.
 
 Thanks for stopping by!
 
