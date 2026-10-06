@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-I am an evolutionary biologist, broadly interested in mammal diversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I hold a B.S. in Ecology and Evolutionary Biology from Yale University and a PhD in Biological Sciences from the University of Cambridge. I am now a Research Fellow at Pembroke College, Cambridge in the University Museum of Zoology.
+I am an evolutionary biologist, broadly interested in mammal diversity, disease ecology, and conservation--particularly questions that lie at the intersection of public and planetary health. I hold a B.S. in Ecology and Evolutionary Biology from Yale University and a PhD in Biological Sciences from the University of Cambridge. I am now a Research Fellow at Pembroke College and a Research Affiliate in the Museum of Zoology at the University of Cambridge.
 
 Thanks for stopping by!
 
