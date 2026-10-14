@@ -25,6 +25,6 @@ I grew up in India and am passionate about South Asian wildlife conservation. I 
 
 ### Orthopoxvirus surveillance in Alaskan hoary marmots
 
-<img src="/public/alaska.JPG" alt="alaska">
+<img src="/public/IMG_9711.JPG" alt="alaska">
 
 In 2022 and 2023, I conducted specimen collection and pathogen surveillance in remote regions of Southeast Alaska with Dr. Link Olson at the University of Alaska Museum. We are working on a collaborative project with the Alaska State Department of Public Health and U.S. Centers for Disease Control, sampling small mammals for a novel orthopoxvirus that has recently spilled over to humans in Alaska (see preprint <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">here</a>). Our field work has thus far focused largely on hoary marmots (*Marmota caligata*) in Southeast Alaska.
