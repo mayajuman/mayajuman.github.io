@@ -12,7 +12,7 @@ Please <a href="mailto:mmj38@cam.ac.uk">email me</a> or visit <a href="https://w
 
 Kettenburg, G., Simonis, M.C., Ferretti, P., Sánchez, C.A., Gaucherand, L., Williams, K.M., Islam, S., Lutz, H.L., Frank, L.E., Huntington, C.A., **Juman, M.M.**, Mols, V.C., Quintela-Tizon, R.M., Voirin, C.J., Ansil, B.R., Vicente-Santos, A.C., Víquez-R, L., Lelli, D., Phelps, K.L., Weinberg, M., Woodson, S.E., Barker, B.R., Dávalos, L.M., Kingston, T., Schmidt, A.G., Streicker, D.G., Uelmen, J., Banerjee, A., Frank, H.K., Seifert, S.N., Becker, D.J., Brook, C.E. (*in revision at Nature Communications*) Prioritizing the next decade of research in bat infectious disease (batID).
 
-Cunningham, A.A., Trugman, T., Gibson, L., Superfine, J., **Juman, M.M.**, Broder, C.C., Yan, L., Yovel, Y., Wood, J.L.N., Weinberg, M. (*in review at Emerging Infectious Diseases*) Paramyxovirus and filovirus serology in a population of Israeli Egyptian fruit bats.
+Cunningham, A.A., Trugman, T., Gibson, L., Superfine, J., **Juman, M.M.**, Broder, C.C., Yan, L., Yovel, Y., Wood, J.L.N., Weinberg, M. (*in review at Journal of Wildlife Diseases*) Paramyxovirus and filovirus serology in a population of Israeli Egyptian fruit bats.
 
 **Juman, M.M.**\*, Doty, J.B.\*, Morgan, C.N., Matheny, A., Caudle, A., Breslin, M., Hamilton, N.M., Gunderson, A., Newell, K., Rogers, J., Balta, V.A., Zecca, I.B., Whitehill, F., Minhaj, F.S., McDonough, M.M., Ferguson, AW., Li, Y., Gigante, C., Nakazawa, Y., McLaughlin, J., Olson, L.E. (*in revision at Nature Communications*) <a href="https://doi.org/10.64898/2026.03.22.713527" target="_blank">Historic and contemporary museum specimens implicate Northern Red-backed Vole (Clethrionomys rutilus) as borealpox host as early as 1990s</a>.
 
